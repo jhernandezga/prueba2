@@ -13,6 +13,7 @@ public class Principal {
 		miVentanaRegistro= new VentanaRegistro();
 		miVentanaRegistro.setVisible(true);
 		System.out.println("hOLA");
+		System.out.println("mundo");
 	}
 
 }
