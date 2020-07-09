@@ -14,6 +14,8 @@ public class Principal {
 		miVentanaRegistro.setVisible(true);
 		System.out.println("hOLA");
 		System.out.println("mundo mundo");
+		System.out.println("hola");
+		
 	}
 
 }
